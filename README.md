@@ -1,7 +1,7 @@
 # 👻 character-making
 
-<img src="./chost.png" width="100px" height="50px" title="Chost"></img>
-<img src="./캐릭터대회_상장.jpg" width="100px" height="50px" title="Chost"></img>
+<img src="./chost.png" width="300px" height="auto" title="Chost"></img>
+<img src="./캐릭터대회_상장.jpg" width="300px" height="auto" title="Chost"></img>
 
 
 ## concept and process

@@ -1,5 +1,9 @@
 # 👻 character-making
 
+<img src="./chost.png" width="100px" height="50px" title="Chost"></img>
+<img src="./캐릭터대회_상장.jpg" width="100px" height="50px" title="Chost"></img>
+
+
 ## concept and process
 CSS기초를 익히기 위해 두 단어를 결합한 "coding+ghost" CHOST라는 캐릭터를 만들어 보았습니다. 
 캐릭터 내 요소를 나누어 class를 활용해 스타일링 하였습니다. 
